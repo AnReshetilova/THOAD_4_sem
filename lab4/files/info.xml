@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+ <Book>
+  <name>xmlBook</name>
+  <price>1</price>
+  <author>1</author>
+  <genre>novell</genre>
+ </Book>
+ <Card>
+  <name>xmlCard</name>
+  <price>2</price>
+  <holiday>easter</holiday>
+ </Card>
+ <Magazine>
+  <name>xmlMagazine</name>
+  <price>3</price>
+  <publisher>3</publisher>
+ </Magazine>
+</books>
