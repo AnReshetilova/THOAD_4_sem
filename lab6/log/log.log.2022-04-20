@@ -1,0 +1,47 @@
+20.04.2022  15:38:53 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  15:38:54 [main] INFO class DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  15:38:54 [main] INFO class DAO.DAOConnection - Disconnected from mssql
+20.04.2022  19:46:05 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  19:46:06 [main] INFO class DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  19:47:31 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  19:47:32 [main] INFO class DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  19:47:32 [main] INFO class DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:27:22 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:27:24 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:27:24 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:43:49 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:43:50 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:43:50 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:44:25 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:44:26 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:44:26 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:46:42 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:46:44 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:46:44 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:52:05 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:52:06 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:52:06 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:54:39 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:54:40 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:54:40 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  20:55:48 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  20:55:49 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  20:55:49 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  21:06:45 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  21:06:46 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  21:06:46 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  21:10:01 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  21:10:02 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  21:10:02 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  21:10:37 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  21:10:38 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  21:10:39 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  21:10:57 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  21:10:58 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  21:10:58 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  21:11:15 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  21:11:16 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  21:11:16 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
+20.04.2022  21:11:35 [main] INFO class by.reshetilova.Main - Started main
+20.04.2022  21:11:36 [main] INFO by.reshetilova.DAO.DAOConnection - ESTABLISHED CONNECTION WITH MSSQL
+20.04.2022  21:11:36 [main] INFO by.reshetilova.DAO.DAOConnection - Disconnected from mssql
