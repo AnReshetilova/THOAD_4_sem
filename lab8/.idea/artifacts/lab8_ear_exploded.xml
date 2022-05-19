@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="lab8:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab8_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lab8/javaeeApplication/javaEEApplication" />
+      <element id="artifact" artifact-name="lab8:war" />
+    </root>
+  </artifact>
+</component>
